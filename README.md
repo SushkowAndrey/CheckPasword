@@ -7,5 +7,5 @@
 
 # Метод
 - `CheckPassword(UserCheck, login, password)` типа `bool` - метод принимает три параметра:
- - аа
+    - аа
 
